@@ -1,0 +1,687 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 650,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9nr0jwEACAAJ",
+      "etag": "jn22bJsTo/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9nr0jwEACAAJ",
+      "volumeInfo": {
+        "title": "Floret Farm's Cut Flower Garden",
+        "subtitle": "Grow, Harvest, and Arrange Stunning Seasonal Blooms",
+        "authors": ["Erin Benzakein", "Julie Chai"],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2017-02-21",
+        "description": "From Erin Benzakein, a leader in the locaflor farm-to-centerpiece movement and owner of internationally renowned Floret Flower Farm, Cut Flower Garden is equal parts instruction and inspiration—a book overflowing with lush photography of magnificent flowers and breathtaking arrangements organized by season. This beautiful guide to growing, harvesting, and arranging gorgeous blooms year-round gives readers vital tools to nurture a Stunning flower garden and use their blossoms to create showstopping arrangements. with irresistible photos of Erin's flower farm that showcase exquisite blooms, tips for growing in a variety of spaces and climates as well as step-by-step instructions for lavish garlands, airy centerpieces, and romantic floral décor for every season, Floret Farm's Cut Flower Garden informs and entices gardeners of all skill levels.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1452145768"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452145761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": ["Gardening"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9nr0jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9nr0jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9nr0jwEACAAJ&dq=flower&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9nr0jwEACAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Floret_Farm_s_Cut_Flower_Garden.html?hl=&id=9nr0jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9nr0jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Find inspiration in this lush flower book: Irresistible photos of Erin's flower farm that showcase exquisite blooms Tips for growing in a variety of spaces and climates Step-by-step instructions for lavish garlands, airy centerpieces, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KPnPwAEACAAJ",
+      "etag": "8C2+hx6w/ak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KPnPwAEACAAJ",
+      "volumeInfo": {
+        "title": "The Edible Flower Garden",
+        "authors": ["Rosalind Creasy"],
+        "publisher": "Periplus Editions (HK) Limited",
+        "publishedDate": "1999-03-15",
+        "description": "Learn how to grow lovely and fragrant flowers then use them create delicious meals with this beautifully illustrated flower gardening and cooking book. Anyone who picks up The Edible Flower Garden will be tempted to grow, harvest, and sample at least a few of the more than forty varieties of Edible flowers. Among them you'll find more familiar food plants—dill and mustard, for example—in addition to common flowers, such as tulips or roses. Author Rosalind Creasy's Stunning photography and detailed plans for an Edible flower garden make this a must-gave book for any flower gardener or home chef. Come along with Creasy on a tour in colorful pictures and careful diagrams and descriptions of her own flower gardens. Included is a tour of the Edible flower gardens of Alice Waters famed Chez Panisse restaurant. Creasy catalogues each variety of flower and how to grow it, plus gives a myriad of delectable ideas on how to use the flower from candied violets and roses to decorate appetizers and cakes, to nasturtiums for a colorful shrimp salad, to day lily buds, pink clover and wild mustard flowers that are tossed together in a spectacular stir-fry. Favorite Recipes Include: Flower Butters Candied Flowers Tulip and Endive Appetizer Pineapple Sage Salsa Rose Petal Syrup Lavender Ice Cream And many more…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9625932933"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789625932934"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": ["Gardening"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KPnPwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KPnPwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KPnPwAEACAAJ&dq=flower&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KPnPwAEACAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Edible_Flower_Garden.html?hl=&id=KPnPwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KPnPwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Author Rosalind Creasy's Stunning photography and detailed plans for an Edible flower garden make this a must-have book for any flower gardener or home chef."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2VeQEAAAQBAJ",
+      "etag": "7LQRGsjbazE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2VeQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Flower Workshop",
+        "subtitle": "Lessons in Arranging Blooms, Branches, Fruits, and Foraged Materials",
+        "authors": ["Ariella Chezar", "Julie Michaels"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2016-03-01",
+        "description": "Written by a celebrated floral designer and lavishly illustrated with full-color photography, this book provides step-by-step instructions for more than 45 Stunning floral projects from simple to spectacular and equips you with the skills to customize arrangements at home. Whether hosting a party, helping out with a friend's wedding, or wishing to incorporate the beauty of flowers into everyday life, The Flower Workshop allows you to create dazzling arrangements that go beyond merely pretty and into realms of the dramatic, the unexpected, and sometimes even the magical. Known for her hands-on flower workshops at FlowerSchool New York, Ariella Chezar walks you through the nuts and bolts of creating a variety of small flourishes, tonal arrangements, branch arrangements, handheld bouquets, wreaths, garlands, grand gestures, and more—all accompanied by detailed photography. Chezar offers advice and philosophy on everything from texture and color to foliage and containers, providing an overall approach to living and working with flowers, with an eye toward fresh, local, wild, seasonally influenced floral design. for every occasion, from relaxed and simple to lavish and monumental, The Flower Workshop celebrates the special moments in your life with glorious, fragrant floral arrangements and enhances your surroundings with abundant beauty.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781607747659"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1607747650"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Crafts & Hobbies"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2VeQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2VeQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2VeQEAAAQBAJ&dq=flower&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2VeQEAAAQBAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Flower_Workshop.html?hl=&id=2VeQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2VeQEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by a celebrated floral designer and lavishly illustrated with full-color photography, this book provides step-by-step instructions for more than 45 Stunning floral projects from simple to spectacular and equips you with the skills ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HeOdzQEACAAJ",
+      "etag": "SFI4azEtwhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HeOdzQEACAAJ",
+      "volumeInfo": {
+        "title": "FELT FLOWER WORKSHOP",
+        "subtitle": "A Modern guide to Crafting gorgeous Plants & Flowers from Fabric",
+        "authors": ["BRYANNE. RAJAMANNAR"],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1644030411"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781644030417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HeOdzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HeOdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HeOdzQEACAAJ&dq=flower&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HeOdzQEACAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/FELT_FLOWER_WORKSHOP.html?hl=&id=HeOdzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HeOdzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn to make felt plants and flowers so rich with detail; they look freshly picked!Aimed at absolute beginners--the book starts with an overview of basic techniques and then progresses on to simple lessons for making flowers, plants, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kidBAAAAYAAJ",
+      "etag": "Gx+GoZNA2Zs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kidBAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Flower Craft",
+        "subtitle": "A Handbook of basic Information on the Care and use of Flowers ...",
+        "authors": ["Patricia Easterbrook Roberts"],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924000405641"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": ["Floral Decoration"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kidBAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kidBAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kidBAAAAYAAJ&q=flower&dq=flower&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kidBAAAAYAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flower_Craft.html?hl=&id=kidBAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kidBAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Handbook of basic Information on the Care and use of \u003cb\u003eFlowers\u003c/b\u003e ... Patricia Easterbrook Roberts ... You can't sit comfortably on a \u003cb\u003eflower\u003c/b\u003e nor can you eat one, although we have on record that our forebears did. However, there are other ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IZOPEAAAQBAJ",
+      "etag": "ggK4bqYzAFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IZOPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "I can Grow a Flower",
+        "authors": ["DK"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2018-02-13",
+        "description": "A first garden story board book that reveals how plants grow with lift-the-flaps and a pullout height chart. Teach your child how a tiny seed grows into a flower in this fascinating lift-the-flap garden story. a pullout height chart ends the book--a great way for children to remember how a sunflower grows, and to measure how fast your child grows, too! through illustrations, photography, and flaps, sixteen delightful board book pages reveal the wonder of how plants grow as you follow the story of a mystery seed. How was it planted? What does it need? What will it become? as days go by, it's hard to imagine the tiny shoot will ever grow into a big, strong plant. Could it magically become the tallest of all the garden flowers? Flaps unfold to show plants growing, creatures hiding, and what's happening underground. The book includes very simple gardening projects and facts about garden creatures (which ones are good for plants, and which ones are bad), and children will find out what a pollinator is, and how to attract pollinators to the garden. The perfect gift for aspiring gardeners, complete with a height chart.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465465702"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465465707"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IZOPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IZOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IZOPEAAAQBAJ&dq=flower&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IZOPEAAAQBAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Can_Grow_a_Flower.html?hl=&id=IZOPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IZOPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book includes very simple gardening projects and facts about garden creatures (which ones are good for plants, and which ones are bad), and children will find out what a pollinator is, and how to attract pollinators to the garden."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hs3ZAAAAMAAJ",
+      "etag": "UfXK6ReKXXE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hs3ZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Flower Family Album",
+        "subtitle": "Family Histories",
+        "authors": ["Helen Field Fischer"],
+        "publishedDate": "1941",
+        "description": "Arrangement by families of flowers, weeds, and a few vegetables.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000029047055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": ["Botany"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hs3ZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hs3ZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Hs3ZAAAAMAAJ&q=flower&dq=flower&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Hs3ZAAAAMAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Flower_Family_Album.html?hl=&id=Hs3ZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hs3ZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lettuce and Other Paintbrush \u003cb\u003eFlowers\u003c/b\u003e COMPOSITE FAMILY Continued WY CHICORY Cichorium Intybus ( si - ... Even our own garden Lettuce will turn bitter as it matures and prepares to send up its \u003cb\u003eflower\u003c/b\u003e stalk . That ' s why one should try to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lBWNEAAAQBAJ",
+      "etag": "xZdSS8wj/Wo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lBWNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Victorian Flower Dictionary",
+        "subtitle": "The Language of Flowers Companion",
+        "authors": ["Mandy Kirkby"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-09-20",
+        "description": "“A flower is not a flower alone; a thousand thoughts invest it.” Daffodils signal new beginnings, daisies innocence. Lilacs mean the first emotions of love, periwinkles tender recollection. Early Victorians used flowers as a way to express their feelings—love or grief, jealousy or devotion. Now, modern-day romantics are enjoying a resurgence of this bygone custom, and this book will share the historical, literary, and cultural significance of flowers with a whole new generation. with lavish illustrations, a dual dictionary of flora and meanings, and suggestions for creating expressive arrangements, this keepsake is the perfect compendium for everyone who has ever given or received a bouquet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345532862"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345532864"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Nature"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lBWNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lBWNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lBWNEAAAQBAJ&dq=flower&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lBWNEAAAQBAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Victorian_Flower_Dictionary.html?hl=&id=lBWNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lBWNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now, modern-day romantics are enjoying a resurgence of this bygone custom, and this book will share the historical, literary, and cultural significance of flowers with a whole new generation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pP95O4SECFcC",
+      "etag": "+IpaqybfGVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pP95O4SECFcC",
+      "volumeInfo": {
+        "title": "Broken Flower",
+        "authors": ["V.C. Andrews"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2006-10",
+        "description": "On the verge of puberty, eleven-year-old Jordan March is sent to live with her spinster great-aunt, after her grandmother accuses her of having an incestuous relationship with her teenaged brother Ian, and stumbles upon a long-buried secret about her family's enigmatic past. Simultaneous.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743493888"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743493885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 2.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pP95O4SECFcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pP95O4SECFcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pP95O4SECFcC&printsec=frontcover&dq=flower&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pP95O4SECFcC&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Broken_Flower.html?hl=&id=pP95O4SECFcC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pP95O4SECFcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On the verge of puberty, eleven-year-old Jordan March is sent to live with her spinster great-aunt, after her grandmother accuses her of having an incestuous relationship with her teenaged brother Ian, and stumbles upon a long-buried secret ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I14fAQAAMAAJ",
+      "etag": "MjrACfEQCiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I14fAQAAMAAJ",
+      "volumeInfo": {
+        "title": "International Symposium on Flower Formation in Ornamentals",
+        "subtitle": "Pisa, Italy, 27-30 September 1976",
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89031221377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": ["Ornamental horticulture"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I14fAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I14fAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=I14fAQAAMAAJ&q=flower&dq=flower&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=I14fAQAAMAAJ&dq=flower&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/International_Symposium_on_Flower_Format.html?hl=&id=I14fAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I14fAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Finally from 28 May, all plants were covered nightly and received short days (11 hours) with the intention of accelerating \u003cb\u003eflower\u003c/b\u003e development. Records of \u003cb\u003eflowering\u003c/b\u003e performance were made on 2 J uly when 66 plants were sampled from each ..."
+      }
+    }
+  ]
+}
